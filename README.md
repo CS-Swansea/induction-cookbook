@@ -45,7 +45,7 @@ You are a new postgrad in Swansea University's CS department. You are excited an
 #### How do I get a license for software X?
 >Head over to the 4th floor (Room 407) and have a chat to the technicians, or drop them an [email](mailto:cosit@swansea.ac.uk) if you prefer. The department also has academic licenses for a variety of Mi-crosoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians.
 
-#### Where are the key buildings on cam-pus? See the campus map overleaf:
+#### Where are the key buildings on cam-pus? See the campus map:
 >Building 8.2 - Faraday: CS building
 >Building 17 - Fulton House
 >Building 2 - Abbey: academic registry
@@ -56,3 +56,6 @@ You are a new postgrad in Swansea University's CS department. You are excited an
 
 
 If you have any technical problems send an email to cosit-at-swansea.ac.uk. For other type of problems, speak to your line manager or supervisor. If you have a problem with your supervisor or line manager, speak to the current head of department. For other problems contact Student Support Services at student.support-at-swansea.ac.uk
+
+#### Campus Plan
+![Campus Plan](https://github.com/CS-Swansea/induction-cookbook/raw/master/CampusPlan.jpg "Campus Plan")
