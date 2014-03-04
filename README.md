@@ -31,19 +31,19 @@ You are a new postgrad in Swansea University's CS department. You are excited an
 >Fill in an order request form, get it signed by the budget holder, head over to room 313 and speak to Julie.
 
 #### Where do I get card access to different rooms/buildings in the department or university?
->For university wide access, email [cardaccess-at-swansea.ac.uk](mail:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to the 3rd floor and speak to Julie. In general you can get access to most public spaces in the department, (e.g., smalltalk room). Bear in mind that access to certain rooms (e.g., the Robert Recorde or the Board Room) requires approval from your supervisor or the Head of Department.
+>For university wide access, email [cardaccess-at-swansea.ac.uk](mailto:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to the 3rd floor and speak to Julie. In general you can get access to most public spaces in the department, (e.g., smalltalk room). Bear in mind that access to certain rooms (e.g., the Robert Recorde or the Board Room) requires approval from your supervisor or the Head of Department.
 
 #### Where can I find printer settings? I would like to print a few research papers!
 >There is a great set of articles about things like this at cs.swan.ac.uk/cswiki (you have to log on with your cs account).
 
 #### How do I get this ‘cs’ web and email account everyone is raving about?
->You can request your web and email account from the College of Science technicians (cosit@swansea.ac.uk).
+>You can request your web and email account from the College of Science [technicians](mailto:cosit@swansea.ac.uk).
 
 #### How can I access/edit my personal website?
 >You can access your personal web space using any FTP client (e.g., Cyberduck). The server address is cs-svr1.swan.ac.uk. Connect using your cs account credentials.
     
 #### How do I get a license for software X?
->Head over to the 4th floor (Room 407) and have a chat to the technicians, or drop them an [email](mail:cosit@swansea.ac.uk) if you prefer. The department also has academic licenses for a variety of Mi-crosoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians.
+>Head over to the 4th floor (Room 407) and have a chat to the technicians, or drop them an [email](mailto:cosit@swansea.ac.uk) if you prefer. The department also has academic licenses for a variety of Mi-crosoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians.
 
 #### Where are the key buildings on cam-pus? See the campus map overleaf:
 >Building 8.2 - Faraday: CS building
