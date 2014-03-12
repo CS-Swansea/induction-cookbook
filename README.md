@@ -40,7 +40,7 @@ You are a new postgrad in Swansea University's CS department. You are excited an
 >You can request your web and email account from the College of Science [technicians](mailto:cosit@swansea.ac.uk).
 
 #### How can I access/edit my personal website?
->You can access your personal web space using any FTP client (e.g., Cyberduck). The server address is cs-svr1.swan.ac.uk. Connect using your cs account credentials.
+>You can access your personal web space using any FTP client (e.g., Cyberduck). The server address is cs-svr1.swan.ac.uk on port 22 (SFTP/SSH). Connect using your cs account credentials.
     
 #### How do I get a license for software X?
 >Head over to the 4th floor (Room 407) and have a chat to the technicians, or drop them an [email](mailto:cosit@swansea.ac.uk) if you prefer. The department also has academic licenses for a variety of Mi-crosoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians.
