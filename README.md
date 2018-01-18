@@ -59,7 +59,9 @@ You are a new postgrad or RA in Swansea University's CS department. You are exci
 >There are several email lists used for communication within the CS department (see the [overview](http://cs.swansea.ac.uk/lists/)). In general, PhD students should be subscribed to [cs-postgrads](http://cos.swansea.ac.uk/mailman/listinfo/cs-postgrads) and RAs should be subscribed to [cs-research-staff](http://cos.swansea.ac.uk/mailman/listinfo/cs-research-staff). Follow these links to request to be added to the lists.
 
 #### Any other problems?
-If you have any technical problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
+>If you have any technical problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
 
 #### Campus Plan
+>See below for a map of Singleton Campus. The university website has [digital versions](http://www.swansea.ac.uk/the-university/location/campus/) of both the Singleton and Bay Campus maps. Computer Science will be relocating to Bay Campus from Autumn 2018.
+
 ![Campus Plan](https://github.com/CS-Swansea/induction-cookbook/raw/master/CampusPlan.jpg "Campus Plan")
