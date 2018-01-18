@@ -9,6 +9,9 @@ You are a new postgrad or RA in Swansea University's CS department. You are exci
 #### How do I get a staff/student card?
 >Once you have a staff/student username or number, you can get your card printed from the Information Desk in the Library and Information Centre.
 
+#### How do I access email, intranet, files and other services?
+>Most university services can be accessed via [home.swan.ac.uk](https://home.swan.ac.uk). You will also find College of Science specific services on the [college intranet](https://science.swansea.ac.uk/).
+
 #### Where is my desk? How do I get a computer?
 >Ask your supervisor/line manager.
 
