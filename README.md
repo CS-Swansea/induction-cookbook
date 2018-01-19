@@ -7,13 +7,13 @@ You are a new postgrad or RA in Swansea University’s CS department. You are ex
 >If you’ve started in September/October you should be able to enrol [online] (https://intranet.swansea.ac.uk). If you started in one of the other enrolment periods (January, April, July) you’ll need to visit the Academic Registry and fill out a form (see key buildings, below). If you’re an international student, you’ll also need to fill in an attendance monitoring form (available from Faraday Tower Room 313) every month.
 
 #### How do I get a staff/student card?
->Once you have a student number or job contract, you can get your card printed from the Information Desk in the Library and Information Centre. While the card is being printed, make sure to ask for your new account details so that you can log in to university services.
+>Once you have a student number or employment contract, you can get your card printed from the Information Desk in the Library and Information Centre. While the card is being printed, make sure to ask for your new account details so that you can log in to university services.
 
 #### How do I access email, intranet, files and other services?
 >Most university services can be accessed via [home.swan.ac.uk](https://home.swan.ac.uk). You will also find College of Science specific services on the [college intranet](https://science.swansea.ac.uk/) (e.g., submitting studies for ethical review, booking annual leave).
 
 #### Where is my desk? How do I get a computer?
->Ask your supervisor/line manager.
+>Ask your supervisor/line manager about where you’ll be sitting, and how to get a computer or laptop.
 
 #### I neeeeeed caffeine! Where are the kitchens?
 >There are kitchens on the 4th and 5th (Room 503) floors of Faraday Tower. Both kitchens are great places to chill out or eat lunch. Room 503 has a number of facilities to make hot drinks. Or, if sugar is more your thing, Room 503 also has a Charity Tuck Shop.
