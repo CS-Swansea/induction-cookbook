@@ -12,6 +12,9 @@ You are a new postgrad or RA in Swansea University’s CS department. You are ex
 #### How do I access email, intranet, files and other services?
 >Most university services can be accessed via [home.swan.ac.uk](https://home.swan.ac.uk). You will also find College of Science specific services on the [college intranet](https://science.swansea.ac.uk/) (e.g., submitting studies for ethical review, booking annual leave).
 
+#### What about internet access?
+>Once you have a university account, you will be able to connect to Eduroam, which provides you with WiFi access at Swansea University and at many other educational institutions worldwide. To get connected, you first need to register your device: whilst on campus, join the SwanseaUni-Setup WiFi network and follow the [instructions](http://swanseauni-wifi.swansea.ac.uk/). Once registered, you can delete the SwanseaUni-Setup network and connect to Eduroam using your university account, making sure to include the @swansea.ac.uk part of your username.
+
 #### Where is my desk? How do I get a computer?
 >Ask your supervisor/line manager about where you’ll be sitting, and how to get a computer or laptop.
 
@@ -65,7 +68,7 @@ You are a new postgrad or RA in Swansea University’s CS department. You are ex
 >There are several email lists used for communication within the CS department (see the [overview](http://cs.swansea.ac.uk/lists/)). In general, PhD students should be subscribed to [cs-postgrads](http://cos.swansea.ac.uk/mailman/listinfo/cs-postgrads) and RAs should be subscribed to [cs-research-staff](http://cos.swansea.ac.uk/mailman/listinfo/cs-research-staff). Follow these links to request to be added to the lists.
 
 #### Any other problems?
->If you have any technical problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
+>If you have any technical questions or problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
 
 #### Campus Plan
 >See below for a map of Singleton Campus. The university website has [digital versions](http://www.swansea.ac.uk/the-university/location/campus/) of both the Singleton and Bay Campus maps. Computer Science will be relocating to Bay Campus from Autumn 2018.
