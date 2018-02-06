@@ -54,26 +54,27 @@ You are a new postgrad or RA in Swansea University’s CS department. You are ex
 #### How do I get this ‘CS’ web and email account everyone is raving about? And why should I care?
 >You can request your account from the College of Science [technicians](mailto:cosit@swansea.ac.uk). Email from your Swansea University address, and let them know that you’re a new postgraduate student or RA, and would like an account on the Computer Science server. This account gives you access to the department’s computing facilities and web hosting, plus any other services you might want the technicians to set up for you.
 
+#### How do I get on mailing lists?
+>There are several email lists used for communication within the CS department (see the [overview](http://cs.swansea.ac.uk/lists/)). In general, PhD students should be subscribed to [cs-postgrads](http://cos.swansea.ac.uk/mailman/listinfo/cs-postgrads) and RAs should be subscribed to [cs-research-staff](http://cos.swansea.ac.uk/mailman/listinfo/cs-research-staff). Follow these links to request to be added to the lists.
+
 #### How can I access/edit my personal website?
 >You can access your personal web space using any FTP client (e.g., Cyberduck). The server address is cs-svr1.swan.ac.uk on port 22 (SFTP/SSH). Connect using your CS account credentials.
 
 #### How do I get a license for software X?
 >Head over to the 4th floor (Faraday Tower room 407) and have a chat to the technicians, or drop them an [email](mailto:cosit@swansea.ac.uk) if you prefer. The department also has academic licenses for a variety of Microsoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians. In addition, the university holds licenses for a range of software packages - enquire in the Library and Information Centre to find out more.
 
-#### Where are the key buildings on campus? See the campus map:
+#### Any other problems?
+>If you have any technical questions or problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
+
+#### Where are the key buildings on campus?
+>See the campus map below. Some of the key buildings are:
 > * Building 8.2 - Faraday Tower: Computer Science
 > * Building 8.3 - Talbot Building: Computational Foundry Beta
 > * Building 17 - Fulton House: Main university building, and a hub for shops, services, food outlets, information, security, etc.
 > * Building 2 - Abbey: academic registry
 > * Building 7 - Library: university IT support, and where you go to get staff/student cards
 
-#### How do I get on mailing lists?
->There are several email lists used for communication within the CS department (see the [overview](http://cs.swansea.ac.uk/lists/)). In general, PhD students should be subscribed to [cs-postgrads](http://cos.swansea.ac.uk/mailman/listinfo/cs-postgrads) and RAs should be subscribed to [cs-research-staff](http://cos.swansea.ac.uk/mailman/listinfo/cs-research-staff). Follow these links to request to be added to the lists.
-
-#### Any other problems?
->If you have any technical questions or problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
-
-#### Campus Plan
+#### Campus Map
 >See below for a map of Singleton Campus. The university website has [digital versions](http://www.swansea.ac.uk/the-university/location/campus/) of both the Singleton and Bay Campus maps. Computer Science will be relocating to Bay Campus from Autumn 2018.
 
 ![Campus Plan](https://github.com/CS-Swansea/induction-cookbook/raw/master/CampusPlan.jpg "Campus Plan")
