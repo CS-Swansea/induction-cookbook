@@ -39,6 +39,9 @@ You are a new postgrad or RA in Swansea University’s CS department. You are ex
 #### Where do I order new equipment for my research?
 >Fill in an order request form, get it signed by the budget holder, then head over to Faraday Tower room 313 and speak to Julie. Your equipment will magically appear in your pigeonhole. Alternatively, email the digtal form to [cosorders](mailto:cosorders@swansea.ac.uk), CCing your supervisor or line manager to authorise the purchase - your equipment will then be delivered to College Stores in the Wallace building.
 
+#### What about basic equipment, such as paper, stationery or batteries?
+>Pop down to Faraday Tower room 313 and ask Jill or Julie. For yearly items (i.e., diaries, calendars, wall planners), keep an eye out for Julie's annual email to place your request.
+
 #### How do I get ethical approval for studies?
 >Complete the ethical review form on the [science intranet](https://science.swansea.ac.uk/intranet/safety/ethics). (For students, your supervisor will need to approve the application first.)
 
