@@ -1,55 +1,52 @@
 Swansea Computer Science Postgrad/RA induction cookbook
 =======================================================
 
-You are a new postgrad or RA in Swansea University’s CS department. You are excited and possibly disoriented. How do you find your way around? Where can you find your mail? Where are the coffee machines? How can you find out about printing, photocopying or scanning documents? How about getting card access to rooms in the department? Fret not young researcher! Your ancestors have put together this cookbook to keep you from feeling out of your depth and let you focus on doing research. Good luck!
+You are a new postgrad or RA in Swansea University’s Computer Science department. You are excited and possibly disoriented. How do you find your way around? Where can you find your mail? Where are the coffee machines? How can you find out about printing, photocopying or scanning documents? How about getting card access to rooms in the department? Fret not young researcher! Your ancestors have put together this cookbook to keep you from feeling out of your depth and let you focus on doing research. Good luck!
 
 #### I’m a new postgraduate student. How do I enrol?
 >If you’ve started in September/October you should be able to enrol [online](https://intranet.swansea.ac.uk). If you started in one of the other enrolment periods (January, April, July) you’ll need to visit the Academic Registry and fill out a form (see key buildings, below). If you’re an international student, you’ll also need to fill in an attendance monitoring form (available from Faraday Tower Room 313) every month.
 
 #### How do I get a staff/student card?
->Once you have a student number or employment contract, you can get your card printed from the Information Desk in the Library and Information Centre. While the card is being printed, make sure to ask for your new account details so that you can log in to university services.
+>Once you have a student number or employment contract, you can get your card printed from the Information Desk in the Bay Library (Bay) or the Library and Information Centre (Singleton). While the card is being printed, make sure to ask for your new account details so that you can log in to university services.
 
 #### How do I access email, intranet, files and other services?
 >Most university services can be accessed via [home.swan.ac.uk](https://home.swan.ac.uk). You will also find College of Science specific services on the [college intranet](https://science.swansea.ac.uk/) (e.g., submitting studies for ethical review, booking annual leave).
 
 #### What about internet access?
->Once you have a university account, you will be able to connect to Eduroam, which provides you with WiFi access at Swansea University and at many other educational institutions worldwide. To get connected, you first need to register your device: whilst on campus, join the SwanseaUni-Setup WiFi network and follow the [instructions](http://swanseauni-wifi.swansea.ac.uk/). Once registered, you can delete the SwanseaUni-Setup network and connect to Eduroam using your university account, making sure to include the @swansea.ac.uk part of your username.
+>When you first arrive, you can connect to the SwanseaUni-Visitors WiFi network to get online while you are settling in. Once you have a university account, you will be able to connect to Eduroam, which provides you with WiFi access at Swansea University and at many other educational institutions worldwide. To get connected, you first need to register your device: whilst on campus, join the SwanseaUni-Setup WiFi network and follow the [instructions](http://swanseauni-wifi.swansea.ac.uk/). Once registered, you can delete the SwanseaUni-Setup network and connect to Eduroam using your university account, making sure to include the @swansea.ac.uk part of your username.
 
 #### Where is my desk? How do I get a computer?
 >Ask your supervisor/line manager about where you’ll be sitting, and how to get a computer or laptop.
 
 #### I neeeeeed caffeine! Where are the kitchens?
->There are kitchens on the 4th and 5th (Room 503) floors of Faraday Tower. Both kitchens are great places to chill out or eat lunch. Room 503 has a number of facilities to make hot drinks. Or, if sugar is more your thing, Room 503 also has a Charity Tuck Shop.
+>There are kitchens / tea points on every floor of both the East and West sides of the Computational Foundry. There is also a larger social space, the Crucible, on the first floor (East).
 
 #### Where are all the other postgrads?
->Computer Science is spread across several different floors, labs and rooms. The main postgraduate space is on the 4th floor of Faraday Tower, which has a large mix of MRes and PhD students, as well as postdoc researchers. On the 5th floor, Room 503 is the FIT Lab, which has a similar mix of PhD students and RAs.
+>The postgraduate spaces in the Computational Foundry are on the East side of the building, in the large glass-fronted rooms overlooking the Crucible.
 
 #### Where can I find snail mail addressed to me?
->Go to the 3rd floor office (Faraday Tower room 313) and look in the pigeon hole labelled “Postgrads and RAs”.
+>Go to the first room on your right on the West side of the Computational Foundry, and look in the pigeon hole labelled “Postgrads and RAs”.
 
 #### Where do I go to book travel for a conference?
->Fill in an order request form, get it signed by the budget holder (usually your supervisor or line manager), then head over to the 3rd floor office (Faraday Tower Room 313) and speak to Jill. At the same time, make sure you complete the travel forms to ensure you are covered by the university’s travel insurance - ask Jill for details.
-
-#### How do I get an order request form?
->Find a paper copy in Faraday Tower room 313, or [use the digital version](https://cs.swan.ac.uk/~cssimonr/resources/).
+>Submit a request via [ABW](https://abw.swansea.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2fBusinessWorld) (or ask your supervisor to do this for you). At the same time, make sure you complete the travel forms to ensure you are covered by the university’s travel insurance - ask Katie in Computational Foundry room 105 for details.
 
 #### Great - I’m going on a trip! How do I claim back my expenses?
 >Staff members should use the [expenses claim system](https://intranet.swan.ac.uk/FinanceForms/Default.aspx). Postgrads need to use a paper-based system - see [forms and documents](https://cs.swan.ac.uk/~cssimonr/resources/).
 
 #### Where do I order new equipment for my research?
->Fill in an order request form, get it signed by the budget holder, then head over to Faraday Tower room 313 and speak to Julie. Your equipment will magically appear in your pigeonhole. Alternatively, email the digtal form to [cosorders](mailto:cosorders@swansea.ac.uk), CCing your supervisor or line manager to authorise the purchase - your equipment will then be delivered to College Stores in the Wallace building.
+>Submit a request via [ABW](https://abw.swansea.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2fBusinessWorld) (or ask your supervisor to do this for you). Your equipment will then be delivered to Engineering Stores (smaller items are often collected by Julie on your behalf – find her in Computational Foundry room 105).
 
 #### What about basic equipment, such as paper, stationery or batteries?
->Pop down to Faraday Tower room 313 and ask Jill or Julie. For yearly items (i.e., diaries, calendars, wall planners), keep an eye out for Julie's annual email to place your request.
+>Pop down to Computational Foundry room 015 and ask Katie. For yearly items (i.e., diaries, calendars, wall planners), keep an eye out for Julie's annual email to place your request.
 
 #### How do I get ethical approval for studies?
 >Complete the ethical review form on the [science intranet](https://science.swansea.ac.uk/intranet/safety/ethics). (For students, your supervisor will need to approve the application first.)
 
 #### Where do I get card access to different rooms/buildings in the department or university?
->For university wide access, email [cardaccess](mailto:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to the 3rd floor office (Faraday Tower room 313) and speak to Julie. In general, you will be able to get access to most public spaces in the department, (e.g., SmallTalk Room, lab spaces). Bear in mind that access to certain rooms (such as the 3rd floor office or Board Room) requires approval from your supervisor or the Head of Department.
+>For university wide access, email [cardaccess](mailto:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to Computational Foundry room 105 and speak to Julie. In general, you will be able to get access to most public spaces in the department, (e.g., Crucible, lab spaces). Bear in mind that access to certain rooms (such as the some lab spaces) requires specific training, or approval from your supervisor or the Head of Department.
 
 #### Where can I find printer settings? How do I connect to the VPN?
->There are printers in most of the larger labs, and a photocopier/scanner/printer in Faraday Tower room 313, each of which you will be able to connect to whilst on the university’s network. There is a great set of articles about things like this at the [CS wiki](https://cs.swan.ac.uk/cswiki/doku.php?id=technical) (log on with your CS account). You may also find the wiki’s older version of this current document useful - find it [here](https://cs.swan.ac.uk/cswiki/doku.php?id=information_for_students_and_postgraduates).
+>There are photocopier/scanner/printer machines in room 015 and the pigeon hole room on the third floor, each of which you will be able to connect to whilst on the university’s network. The new Computational Foundry printers work slightly differently, so emailing the College of Science [technicians](mailto:cosit@swansea.ac.uk) may be your easiest option here. Once set up, you can scan your staff/student card at any photocopier to retrieve your items, and check your account status at the [printer page](https://printing.swansea.ac.uk/).
 
 #### How do I get this ‘CS’ web and email account everyone is raving about? And why should I care?
 >You can request your account from the College of Science [technicians](mailto:cosit@swansea.ac.uk). Email from your Swansea University address, and let them know that you’re a new postgraduate student or RA, and would like an account on the Computer Science server. This account gives you access to the department’s computing facilities and web hosting, plus any other services you might want the technicians to set up for you.
@@ -61,20 +58,24 @@ You are a new postgrad or RA in Swansea University’s CS department. You are ex
 >You can access your personal web space using any FTP client (e.g., Cyberduck). The server address is cs-svr1.swan.ac.uk on port 22 (SFTP/SSH). Connect using your CS account credentials.
 
 #### How do I get a license for software X?
->Head over to the 4th floor (Faraday Tower room 407) and have a chat to the technicians, or drop them an [email](mailto:cosit@swansea.ac.uk) if you prefer. The department also has academic licenses for a variety of Microsoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians. In addition, the university holds licenses for a range of software packages - enquire in the Library and Information Centre to find out more.
+>Drop the College of Science technicians an [email](mailto:cosit@swansea.ac.uk). The department also has academic licenses for a variety of Microsoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians. In addition, the university holds licenses for a range of software packages - enquire in the Library and Information Centre to find out more.
 
 #### Any other problems?
 >If you have any technical questions or problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
 
 #### Where are the key buildings on campus?
->See the campus map below. Some of the key buildings are:
-> * Building 8.2 - Faraday Tower: Computer Science
-> * Building 8.3 - Talbot Building: Computational Foundry Beta
+>See the campus maps below. Some of the key buildings on Bay Campus are:
+> * Building 10 - Computational Foundry: home of Computer Science and Maths
+> * Building 8 - Student support services
+> * Building 5 - Bay Library: university IT support, and where you go to get staff/student cards
+
+>Some of the key buildlings on Singleton Campus are:
 > * Building 17 - Fulton House: Main university building, and a hub for shops, services, food outlets, information, security, etc.
 > * Building 2 - Abbey: academic registry
-> * Building 7 - Library: university IT support, and where you go to get staff/student cards
+> * Building 7 - Library and Inforation Centre: university IT support, and where you go to get staff/student cards
 
 #### Campus Map
->See below for a map of Singleton Campus. The university website has [digital versions](http://www.swansea.ac.uk/the-university/location/campus/) of both the Singleton and Bay Campus maps. Computer Science will be relocating to Bay Campus from Autumn 2018.
+>See below for maps of the University's two campuses. The university website has [digital versions](http://www.swansea.ac.uk/the-university/location/) of both Bay and Singleton Campus maps. Computer Science relocated to Bay Campus from Autumn 2018.
 
-![Campus Plan](https://github.com/CS-Swansea/induction-cookbook/raw/master/CampusPlan.jpg "Campus Plan")
+![Bay Campus](https://github.com/CS-Swansea/induction-cookbook/raw/master/SingletonCampus.jpg "Bay Campus")
+![Singleton Campus](https://github.com/CS-Swansea/induction-cookbook/raw/master/SingletonCampus.jpg "Singleton Campus")
