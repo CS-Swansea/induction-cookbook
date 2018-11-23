@@ -77,5 +77,5 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 #### Campus Map
 >See below for maps of the University's two campuses. The university website has [digital versions](http://www.swansea.ac.uk/the-university/location/) of both Bay and Singleton Campus maps. Computer Science relocated to Bay Campus from Autumn 2018.
 
-![Bay Campus](https://github.com/CS-Swansea/induction-cookbook/raw/master/Singleton-Campus.png "Bay Campus")
+![Bay Campus](https://github.com/CS-Swansea/induction-cookbook/raw/master/Bay-Campus.png "Bay Campus")
 ![Singleton Campus](https://github.com/CS-Swansea/induction-cookbook/raw/master/Singleton-Campus.png "Singleton Campus")
