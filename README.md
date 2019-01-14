@@ -28,7 +28,7 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 >Go to the first room on your right on the West side of the Computational Foundry, and look in the pigeon hole labelled “Postgrads and RAs”.
 
 #### Where do I go to book travel for a conference?
->Submit a request via [ABW](https://abw.swansea.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2fBusinessWorld) (or ask your supervisor to do this for you). At the same time, make sure you complete the travel forms to ensure you are covered by the university’s travel insurance - ask Katie in Computational Foundry room 105 for details.
+>Submit a request via [ABW](https://abw.swansea.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2fBusinessWorld) (or ask your supervisor to do this for you). At the same time, make sure you complete the travel forms to ensure you are covered by the university’s travel insurance - ask Katie in Computational Foundry room 015 for details.
 
 #### Great - I’m going on a trip! How do I claim back my expenses?
 >Staff members should use the [expenses claim system](https://intranet.swan.ac.uk/FinanceForms/Default.aspx). Postgrads need to use a paper-based system - see [forms and documents](https://cs.swan.ac.uk/~cssimonr/resources/).
