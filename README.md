@@ -34,7 +34,7 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 >Staff members should use the [expenses claim system](https://intranet.swan.ac.uk/FinanceForms/Default.aspx). Postgrads need to use a paper-based system - see [forms and documents](https://cs.swan.ac.uk/~cssimonr/resources/).
 
 #### Where do I order new equipment for my research?
->Submit a request via [ABW](https://abw.swansea.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2fBusinessWorld) (or ask your supervisor to do this for you). Your equipment will then be delivered to Engineering Stores (smaller items are often collected by Julie on your behalf – find her in Computational Foundry room 105).
+>Submit a request via [ABW](https://abw.swansea.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2fBusinessWorld) (or ask your supervisor to do this for you). Your equipment will then be delivered to Engineering Stores.
 
 #### What about basic equipment, such as paper, stationery or batteries?
 >Pop down to Computational Foundry room 015 and ask Katie. For yearly items (i.e., diaries, calendars, wall planners), keep an eye out for Julie's annual email to place your request.
@@ -46,7 +46,7 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 >For university wide access, email [cardaccess](mailto:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to Computational Foundry room 105 and speak to Julie. In general, you will be able to get access to most public spaces in the department, (e.g., Crucible, lab spaces). Bear in mind that access to certain rooms (such as the some lab spaces) requires specific training, or approval from your supervisor or the Head of Department.
 
 #### Where can I find printer settings? How do I connect to the VPN?
->There are photocopier/scanner/printer machines in room 015 and the pigeon hole room on the third floor, each of which you will be able to connect to whilst on the university’s network. The new Computational Foundry printers work slightly differently, so emailing the College of Science [technicians](mailto:cosit@swansea.ac.uk) may be your easiest option here. Once set up, you can scan your staff/student card at any photocopier to retrieve your items, and check your account status at the [printer page](https://printing.swansea.ac.uk/).
+>There are photocopier/scanner/printer machines in room 015 and the pigeon hole room on the third floor, each of which you will be able to connect to whilst on the university’s network. Insturctions to connect to these printers from your personal machine can be seen [here](https://science.swansea.ac.uk/info/pages/print.php). If you have any problems with these printers, the College of Science [technicians](mailto:cosit@swansea.ac.uk) will be able to help. Once set up, you can scan your staff/student card at any photocopier to retrieve your items, and check your account status at the [printer page](https://printing.swansea.ac.uk/).
 
 #### How do I get this ‘CS’ web and email account everyone is raving about? And why should I care?
 >You can request your account from the College of Science [technicians](mailto:cosit@swansea.ac.uk). Email from your Swansea University address, and let them know that you’re a new postgraduate student or RA, and would like an account on the Computer Science server. This account gives you access to the department’s computing facilities and web hosting, plus any other services you might want the technicians to set up for you.
