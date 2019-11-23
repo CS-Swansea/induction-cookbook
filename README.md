@@ -43,7 +43,7 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 >Complete the ethical review form on the [science intranet](https://science.swansea.ac.uk/intranet/safety/ethics). (For students, your supervisor will need to approve the application first.)
 
 #### Where do I get card access to different rooms/buildings in the department or university?
->For university wide access, email [cardaccess](mailto:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to Computational Foundry room 105 and speak to Julie. In general, you will be able to get access to most public spaces in the department, (e.g., Crucible, lab spaces). Bear in mind that access to certain rooms (such as the some lab spaces) requires specific training, or approval from your supervisor or the Head of Department.
+>For university wide access, email [card access](mailto:cardaccess@swansea.ac.uk). For rooms in the department, you will need to go to Computational Foundry room 105 and speak to Julie. In general, you will be able to get access to most public spaces in the department, (e.g., Crucible, lab spaces). Bear in mind that access to certain rooms (such as the some lab spaces) requires specific training, or approval from your supervisor or the Head of Department.
 
 #### Where can I find printer settings? How do I connect to the VPN?
 >There are photocopier/scanner/printer machines in room 015 and the pigeon hole room on the third floor, each of which you will be able to connect to whilst on the university’s network. Insturctions to connect to these printers from your personal machine can be seen [here](https://science.swansea.ac.uk/info/pages/print.php). If you have any problems with these printers, the College of Science [technicians](mailto:cosit@swansea.ac.uk) will be able to help. Once set up, you can scan your staff/student card at any photocopier to retrieve your items, and check your account status at the [printer page](https://printing.swansea.ac.uk/).
@@ -61,7 +61,7 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 >Drop the College of Science technicians an [email](mailto:cosit@swansea.ac.uk). The department also has academic licenses for a variety of Microsoft software through MSDN academic alliance. If you have not got an account for this, request one from the technicians. In addition, the university holds licenses for a range of software packages - enquire in the Library and Information Centre to find out more.
 
 #### Any other problems?
->If you have any technical questions or problems, send an email to [cosit](cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](student.support@swansea.ac.uk) or [Occupational Health](occupational-health@swansea.ac.uk).
+>If you have any technical questions or problems, send an email to [cosit](mailto:cosit@swansea.ac.uk). For other types of problems, speak to your supervisor or line manager. If you have a problem with your supervisor or line manager, speak to the Head of Department. For other problems, contact [Student Support Services](mailto:student.support@swansea.ac.uk) or [Occupational Health](mailto:occupational-health@swansea.ac.uk).
 
 #### Where are the key buildings on campus?
 >See the campus maps below. Some of the key buildings on Bay Campus are:
