@@ -48,6 +48,17 @@ You are a new postgrad or RA in Swansea University’s Computer Science departme
 #### Where can I find printer settings? How do I connect to the VPN?
 >There are photocopier/scanner/printer machines in room 015 and the pigeon hole room on the third floor, each of which you will be able to connect to whilst on the university’s network. Insturctions to connect to these printers from your personal machine can be seen [here](https://science.swansea.ac.uk/info/pages/print.php). If you have any problems with these printers, the College of Science [technicians](mailto:cosit@swansea.ac.uk) will be able to help. Once set up, you can scan your staff/student card at any photocopier to retrieve your items, and check your account status at the [printer page](https://printing.swansea.ac.uk/).
 
+#### How do I add the staff printer on Linux?
+>There is a [guide](Staff-Printer-On-Linux.pdf) provided by CoSIT but actually it can be simplified (the example uses Ubuntu):
+1. 
+    ```shell
+    sudo apt install smbclient python3-smbc -y
+    ```
+1. Add a new printer in your system settings, via SMB protocol with `smb://iss-ricoh-ps4.tawe.swan.ac.uk/staff%20printing`.
+1. Download [this driver file](Ricoh-MP_C3504ex-PDF-Ricoh.ppd) and point to it when the relevant section pops up.
+1. When prompted for authentication, you need to prefix your username with `tawe\`, eg: for Jane.Doe it will be `tawe\jane.doe`.
+1. You don't really need to install PaperCut as you have unlimited printing quota.
+
 #### How do I get this ‘CS’ web and email account everyone is raving about? And why should I care?
 >You can request your account from the College of Science [technicians](mailto:cosit@swansea.ac.uk). Email from your Swansea University address, and let them know that you’re a new postgraduate student or RA, and would like an account on the Computer Science server. This account gives you access to the department’s computing facilities and web hosting, plus any other services you might want the technicians to set up for you.
 
